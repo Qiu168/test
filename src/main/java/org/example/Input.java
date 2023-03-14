@@ -54,5 +54,6 @@ public class Input {
         bos.close();
         long end=System.currentTimeMillis();
         System.out.println("一共用时"+(end-start)+"毫秒");
+        //mn
     }
 }
